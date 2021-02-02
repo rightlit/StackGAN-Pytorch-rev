@@ -224,7 +224,7 @@ class GANTrainer(object):
                      Total Time: %.2fsec
                   '''
                   % (epoch, self.max_epoch, i, len(data_loader),
-                     errD.data[0], errG.data[0], kl_loss.data[0],
+                     errD.data, errG.data, kl_loss.data,
                      errD_real, errD_wrong, errD_fake, (end_t - start_t)))
             if epoch % self.snapshot_interval == 0:
                 save_model(netG, netD, epoch, self.model_dir)
