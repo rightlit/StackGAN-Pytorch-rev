@@ -196,12 +196,13 @@ class GANTrainer(object):
 
                 count = count + 1
                 if i % 100 == 0:
-                    summary_D = summary.scalar('D_loss', errD.data[0])
+                    #summary_D = summary.scalar('D_loss', errD.data[0])
+                    summary_D = summary.scalar('D_loss', errD.data)
                     summary_D_r = summary.scalar('D_loss_real', errD_real)
                     summary_D_w = summary.scalar('D_loss_wrong', errD_wrong)
                     summary_D_f = summary.scalar('D_loss_fake', errD_fake)
-                    summary_G = summary.scalar('G_loss', errG.data[0])
-                    summary_KL = summary.scalar('KL_loss', kl_loss.data[0])
+                    summary_G = summary.scalar('G_loss', errG.data)
+                    summary_KL = summary.scalar('KL_loss', kl_loss.data)
 
                     self.summary_writer.add_summary(summary_D, count)
                     self.summary_writer.add_summary(summary_D_r, count)
