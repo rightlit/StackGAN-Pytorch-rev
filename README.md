@@ -36,9 +36,13 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 
 Examples for COCO:
  
-![](examples/coco_2.png)
-![](examples/coco_3.png)
+![](./models/coco/netG_epoch_90/0.png)
+![](./models/coco/netG_epoch_90/1.png)
+![](./models/coco/netG_epoch_90/2.png)
 
+- a kitchen counter with a rounded edge and shelves
+- a woman walking across a street in short shorts.
+- two young men setting on a bench at the mall, one is on a cell phone.
 
 
 **References**
