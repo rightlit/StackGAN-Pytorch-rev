@@ -44,6 +44,23 @@ Examples for COCO:
 - a woman walking across a street in short shorts.
 - two young men setting on a bench at the mall, one is on a cell phone.
 
+![](./models/coco/netG_epoch_90/3.png)
+![](./models/coco/netG_epoch_90/4.png)
+![](./models/coco/netG_epoch_90/5.png)
+
+- a baseball player is holding a bat and is standing
+- a small pizza split into six slices with one missing.
+- a very tall brick building with bricked up windows.
+
+![](./models/coco/netG_epoch_90/6.png)
+![](./models/coco/netG_epoch_90/7.png)
+![](./models/coco/netG_epoch_90/8.png)
+
+- a young boy using a computer on a kitchen table.
+- a surfer laying on a surf board and paddling with her hands and feet.
+- a group of people walking down a sidewalk next to a wagon of little children.
+
+
 
 **References**
 
