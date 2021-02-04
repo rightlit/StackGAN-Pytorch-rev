@@ -17,8 +17,8 @@ Torch7 (http://torch.ch/docs/getting-started.html#_)
 
 In addition, please add the project folder to PYTHONPATH and `pip install` the following packages:
 - `torchfile`
-- `lupa`
-- `scipy==1.1.0`
+- `tensorboardX == 1.1`
+- `tensorboard==1.11.0`
 - `torchvision==0.4.0`
 
 
