@@ -36,7 +36,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 
 Examples for COCO:
  
-![](./models/coco/netG_epoch_90/0_1.png)
+![](./models/coco/netG_epoch_90/0_0.png)
 ![](./models/coco/netG_epoch_90/0_1.png)
 ![](./models/coco/netG_epoch_90/0_2.png)
 
