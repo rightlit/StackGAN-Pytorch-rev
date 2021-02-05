@@ -36,25 +36,25 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 
 Examples for COCO:
  
-![](./models/coco/netG_epoch_90/0.png)
-![](./models/coco/netG_epoch_90/1.png)
-![](./models/coco/netG_epoch_90/2.png)
+![](./models/coco/netG_epoch_90/0_1.png)
+![](./models/coco/netG_epoch_90/0_1.png)
+![](./models/coco/netG_epoch_90/0_2.png)
 
 - This wire metal rack holds several pairs of shoes and sandals
 - A dog sleeping on a show rack in the shoes.
 - Various slides and other footwear rest in a metal basket outdoors.
 
-![](./models/coco/netG_epoch_90/3.png)
-![](./models/coco/netG_epoch_90/4.png)
-![](./models/coco/netG_epoch_90/5.png)
+![](./models/coco/netG_epoch_90/0_3.png)
+![](./models/coco/netG_epoch_90/0_4.png)
+![](./models/coco/netG_epoch_90/0_5.png)
 
 - A small dog is curled up on top of the shoes
 - a shoe rack with some shoes and a dog sleeping on them
 - A motorcycle parked in a parking space next to another motorcycle.
 
-![](./models/coco/netG_epoch_90/6.png)
-![](./models/coco/netG_epoch_90/7.png)
-![](./models/coco/netG_epoch_90/8.png)
+![](./models/coco/netG_epoch_90/0_6.png)
+![](./models/coco/netG_epoch_90/0_7.png)
+![](./models/coco/netG_epoch_90/0_8.png)
 
 - An old motorcycle parked beside other motorcycles with a brown leather seat.
 - Motorcycle parked in the parking lot of asphalt.
