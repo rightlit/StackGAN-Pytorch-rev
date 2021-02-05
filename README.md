@@ -40,25 +40,25 @@ Examples for COCO:
 ![](./models/coco/netG_epoch_90/1.png)
 ![](./models/coco/netG_epoch_90/2.png)
 
-- a kitchen counter with a rounded edge and shelves
-- a woman walking across a street in short shorts.
-- two young men setting on a bench at the mall, one is on a cell phone.
+- This wire metal rack holds several pairs of shoes and sandals
+- A dog sleeping on a show rack in the shoes.
+- Various slides and other footwear rest in a metal basket outdoors.
 
 ![](./models/coco/netG_epoch_90/3.png)
 ![](./models/coco/netG_epoch_90/4.png)
 ![](./models/coco/netG_epoch_90/5.png)
 
-- a baseball player is holding a bat and is standing
-- a small pizza split into six slices with one missing.
-- a very tall brick building with bricked up windows.
+- A small dog is curled up on top of the shoes
+- a shoe rack with some shoes and a dog sleeping on them
+- A motorcycle parked in a parking space next to another motorcycle.
 
 ![](./models/coco/netG_epoch_90/6.png)
 ![](./models/coco/netG_epoch_90/7.png)
 ![](./models/coco/netG_epoch_90/8.png)
 
-- a young boy using a computer on a kitchen table.
-- a surfer laying on a surf board and paddling with her hands and feet.
-- a group of people walking down a sidewalk next to a wagon of little children.
+- An old motorcycle parked beside other motorcycles with a brown leather seat.
+- Motorcycle parked in the parking lot of asphalt.
+- A close up view of a motorized bicycle, sitting in a rack. 
 
 
 
