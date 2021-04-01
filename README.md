@@ -1,4 +1,4 @@
-# StackGAN-Pytorch revision for Colab
+# StackGAN-Pytorch revision and demos
 
 This is StackGAN-Pytorch revised version for Google Colab.
 
